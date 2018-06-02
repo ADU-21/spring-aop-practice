@@ -1,3 +1,5 @@
+package jdkproxy;
+
 import java.util.UUID;
 
 public interface OrderRepository {

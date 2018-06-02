@@ -1,3 +1,3 @@
-# AOP practice
+# jdkproxy.AOP practice
 
-This is demo for practice AOP.
+This is demo for practice jdkproxy.AOP.
